@@ -1,0 +1,6 @@
+{
+    "jwtSecret": "jwtSecret",
+    "mongoURI": "mongodb+srv://Kang:cometkys@cluster0.34ckux5.mongodb.net/Xkick?retryWrites=true&w=majority",
+    "gitHubToken": "gitHubToken"
+
+}
